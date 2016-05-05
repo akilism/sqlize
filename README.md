@@ -2,7 +2,7 @@
 
 A Clojure/script macro to fill in dynamic parts to sql queries.
 
-Heavily borrows from ideas in [yesql](https://github.com/krisajenkins/yesql)
+Heavily borrows from ideas in [yesql](https://github.com/krisajenkins/yesql) but allows for use in clojurescript.
 
 ## Usage
 
